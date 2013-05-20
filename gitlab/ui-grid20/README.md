@@ -26,6 +26,7 @@
 ## 演示
 
     <link type="text/css" rel="stylesheet" media="screen" href="src/ui-grid20.css">
+    ````html
     <style>
     .wrapper {
         width: 990px;
@@ -66,3 +67,4 @@
         </div>
     
     </div>
+    ````

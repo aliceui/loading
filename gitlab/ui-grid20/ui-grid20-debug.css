@@ -1,0 +1,49 @@
+/*! define alipay-css/ui-grid20/1.0.0/ui-grid20-debug.css */
+/* alipay-css.ui-grid20 样式模块 */
+
+.ui-grid20-1,.ui-grid20-2,.ui-grid20-3,
+.ui-grid20-4,.ui-grid20-5,.ui-grid20-6,
+.ui-grid20-7,.ui-grid20-8,.ui-grid20-9,
+.ui-grid20-10,.ui-grid20-11,.ui-grid20-12,
+.ui-grid20-13,.ui-grid20-14,.ui-grid20-15,
+.ui-grid20-16,.ui-grid20-17,.ui-grid20-18,
+.ui-grid20-19,.ui-grid20-20 {
+    margin: 0 0 0 10px;
+    float:left;
+    display:inline;
+}
+.ui-grid20-1 {width:40px;}
+.ui-grid20-2 {width:90px;}
+.ui-grid20-3 {width:140px;}
+.ui-grid20-4 {width:190px;} /* 右侧推广位的宽度 */
+.ui-grid20-5 {width:240px;} /* 左侧边栏的宽度 */
+.ui-grid20-6 {width:290px;}
+.ui-grid20-7 {width:340px;}
+.ui-grid20-8 {width:390px;}
+.ui-grid20-9 {width:440px;}
+.ui-grid20-10 {width:490px;}
+.ui-grid20-11 {width:540px;}
+.ui-grid20-12 {width:590px;} /* 中央区域宽度 */
+.ui-grid20-13 {width:640px;}
+.ui-grid20-14 {width:690px;}
+.ui-grid20-15 {width:740px;}
+.ui-grid20-16 {width:790px;}
+.ui-grid20-17 {width:840px;} /* 交易明细表区域的宽度 */
+.ui-grid20-18 {width:890px;}
+.ui-grid20-19 {width:940px;}
+.ui-grid20-20 {width:990px;} /* 最大页面宽度 */
+
+/* 清理浮动 */
+.ui-grid20-row:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+.ui-grid20-row {
+    zoom: 1; /* for IE6 IE7 */
+    margin:0 0 0 -10px;
+}

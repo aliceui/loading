@@ -2,20 +2,15 @@
   "name": "ui-grid20",
   "description": "grid20",
   "version": "1.0.0",
-  "homepage": "https://github.com/chengfeng/ui-grid20",
+  "homepage": "http://arale.alipay.im/alipay/ui-grid20/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/chengfeng/ui-grid20.git"
+    "url": "http://gitlab.alibaba-inc.com/alipay-css/ui-grid20.git"
   },
   "bugs": {
-    "url": "https://github.com/chengfeng/ui-grid20/issues"
+    "url": "http://gitlab.alibaba-inc.com/alipay-css/ui-grid20/issues"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/chengfeng/ui-grid20/blob/master/LICENSE-MIT"
-    }
-  ],
+  "licenses": "MIT",
   "family": "alipay-css",
   "tests": [
     "ui-grid20"
